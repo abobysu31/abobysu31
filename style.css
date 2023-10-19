@@ -1,0 +1,52 @@
+h1{
+    color:blue;
+}
+p{
+    color:blueviolet
+    }
+    body{
+        background-color: aqua;
+    }
+    img{
+        height: 200px;
+        width: 300xp;
+    }
+ 
+
+
+    a{
+         text-decoration:none;
+         border: 3px solid #FF388F;
+         background-color: #78EFF5;
+         color: white;
+         padding: 20px;
+         width: 100px;
+         height: 80px;
+         text-align: center;
+         font-size: 20px;
+    }
+
+
+    header{
+        height: 20%;
+        background-color: rgb(217, 118, 241);
+        margin: 10px;
+    }
+    main{
+        height: 70%;
+        background-color: rgb(187, 102, 226);
+        margin: 10%;
+        display: flex;
+        justify-content: space-around;
+
+    }
+    footer{
+        height: 10%;
+        background-color: rgb(225, 98, 241);
+        margin: 10%;
+    }
+    nav{
+        display: flex;
+        justify-content: space-around;
+    }
+    
